@@ -1,0 +1,20 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1791812379010,
+      "tag": "0000_core_reimbursement_schema",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1791812403844,
+      "tag": "0001_signup_creates_student_record",
+      "breakpoints": true
+    }
+  ]
+}
